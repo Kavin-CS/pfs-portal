@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`term-Section-Header Term Section Header renders correctly without props 1`] = `
+<div
+  class="MuiGrid-root makeStyles-termWrap-2 MuiGrid-container"
+  data-testid="term-section-header"
+>
+  <div
+    class="MuiGrid-root makeStyles-termLabel-1"
+    data-testid="term-section-title"
+  />
+  <div
+    class="MuiBox-root MuiBox-root-16 makeStyles-subHeader-3"
+  >
+    <div
+      class="MuiFormGroup-root"
+    >
+      <label
+        class="MuiFormControlLabel-root"
+      >
+        <span
+          class="MuiSwitch-root Component-root-6"
+        >
+          <span
+            aria-disabled="false"
+            class="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-12 MuiSwitch-switchBase Component-switchBase-7 MuiSwitch-colorSecondary"
+          >
+            <span
+              class="MuiIconButton-label"
+            >
+              <input
+                class="PrivateSwitchBase-input-15 MuiSwitch-input"
+                name="checked"
+                type="checkbox"
+                value=""
+              />
+              <span
+                class="MuiSwitch-thumb Component-thumb-8"
+              />
+            </span>
+          </span>
+          <span
+            class="MuiSwitch-track Component-track-9"
+          />
+        </span>
+        <span
+          class="MuiTypography-root MuiFormControlLabel-label MuiTypography-body1"
+        >
+          <p
+            class="MuiTypography-root makeStyles-switchLabel-4 MuiTypography-body1"
+          >
+            labels:View_Table
+          </p>
+        </span>
+      </label>
+    </div>
+  </div>
+</div>
+`;

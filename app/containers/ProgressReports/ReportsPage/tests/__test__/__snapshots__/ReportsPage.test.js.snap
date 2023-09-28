@@ -1,0 +1,575 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Reports Page Reports Page render correctly 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-71"
+  data-testid="reports-page"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-72"
+      >
+        <p
+          class="MuiTypography-root makeStyles-cardTitle-6 MuiTypography-body1"
+        >
+          headings:Progress_Report_Page_Title
+        </p>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-3"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-73 makeStyles-studentDetailsCard-8"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root makeStyles-root-13 MuiPaper-elevation0 MuiPaper-rounded"
+          data-testid="student-details-card"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-74"
+            data-testid="student-profile-card-header"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-75"
+              style="justify-content: center;"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-76"
+                data-testid="student-profile-avatar"
+              >
+                <div
+                  class="MuiAvatar-root MuiAvatar-circle makeStyles-avatar-17 MuiAvatar-colorDefault"
+                  style="color: rgb(0, 33, 141); background-color: rgb(223, 225, 230);"
+                >
+                  P
+                </div>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-77 makeStyles-text-18"
+                data-testid="student-profile-name"
+              >
+                <div
+                  class="MuiListItemText-root"
+                >
+                  <span
+                    class="MuiTypography-root MuiListItemText-primary MuiTypography-subtitle1 MuiTypography-displayBlock"
+                    style="font-weight: 1000; color: rgb(0, 33, 141);"
+                  >
+                    Priyanka Gupta
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="MuiCardContent-root makeStyles-cardContent-14"
+            data-testid="student-details-card-content"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-78 makeStyles-box-26"
+              data-testid="student-profile-card-content"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-79 makeStyles-innerBox-27"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-headings-25 MuiTypography-body2"
+                    >
+                       Gr No
+                    </p>
+                    <div
+                      class="MuiBox-root MuiBox-root-80"
+                    >
+                      <p
+                        class="MuiTypography-root makeStyles-text-24 MuiTypography-body2 MuiTypography-colorPrimary"
+                      >
+                        1903
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-81 makeStyles-innerBox-27"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-headings-25 MuiTypography-body2"
+                    >
+                      Roll No
+                    </p>
+                    <div
+                      class="MuiBox-root MuiBox-root-82"
+                    >
+                      <p
+                        class="MuiTypography-root makeStyles-text-24 MuiTypography-body2 MuiTypography-colorPrimary"
+                      >
+                        01
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-83 makeStyles-innerBox-27"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-headings-25 MuiTypography-body2"
+                    >
+                      Date Of Birth
+                    </p>
+                    <div
+                      class="MuiBox-root MuiBox-root-84"
+                    >
+                      <p
+                        class="MuiTypography-root makeStyles-text-24 MuiTypography-body2 MuiTypography-colorPrimary"
+                      >
+                        21 April 2006
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-85 makeStyles-innerBox-27"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-headings-25 MuiTypography-body2"
+                    >
+                      Father's  Name
+                    </p>
+                    <div
+                      class="MuiBox-root MuiBox-root-86"
+                    >
+                      <p
+                        class="MuiTypography-root makeStyles-text-24 MuiTypography-body2 MuiTypography-colorPrimary"
+                      >
+                        Chandar Mohan Vashishth
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+                >
+                  <div
+                    class="MuiBox-root MuiBox-root-87 makeStyles-innerBox-27"
+                  >
+                    <p
+                      class="MuiTypography-root makeStyles-headings-25 MuiTypography-body2"
+                    >
+                      Mother's  Name
+                    </p>
+                    <div
+                      class="MuiBox-root MuiBox-root-88"
+                    >
+                      <p
+                        class="MuiTypography-root makeStyles-text-24 MuiTypography-body2 MuiTypography-colorPrimary"
+                      >
+                        Sonia Vashishth
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-89 makeStyles-box-7"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-90"
+          data-testid="embedded-chips-card"
+          style="border-radius: 10px; background-color: rgb(208, 250, 238);"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-91"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2"
+              style="font-weight: bold; color: rgb(0, 102, 68);"
+            >
+              Performance Improved In
+            </h6>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-92"
+              >
+                <div
+                  class="MuiButtonBase-root MuiChip-root makeStyles-chip-40 makeStyles-variantGoodChip-41 MuiChip-clickable"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiChip-label"
+                  >
+                    <h6
+                      class="MuiTypography-root MuiTypography-subtitle2"
+                      style="color: rgb(128, 209, 133); font-weight: bold;"
+                    >
+                      Geography
+                    </h6>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+                <div
+                  class="MuiButtonBase-root MuiChip-root makeStyles-chip-40 makeStyles-variantGoodChip-41 MuiChip-clickable"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiChip-label"
+                  >
+                    <h6
+                      class="MuiTypography-root MuiTypography-subtitle2"
+                      style="color: rgb(128, 209, 133); font-weight: bold;"
+                    >
+                      Social Science
+                    </h6>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+                <div
+                  class="MuiButtonBase-root MuiChip-root makeStyles-chip-40 makeStyles-variantGoodChip-41 MuiChip-clickable"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiChip-label"
+                  >
+                    <h6
+                      class="MuiTypography-root MuiTypography-subtitle2"
+                      style="color: rgb(128, 209, 133); font-weight: bold;"
+                    >
+                      Economics
+                    </h6>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+                <div
+                  class="MuiButtonBase-root MuiChip-root makeStyles-chip-40 makeStyles-variantGoodChip-41 MuiChip-clickable"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiChip-label"
+                  >
+                    <h6
+                      class="MuiTypography-root MuiTypography-subtitle2"
+                      style="color: rgb(128, 209, 133); font-weight: bold;"
+                    >
+                      Computer
+                    </h6>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-93 makeStyles-box-7"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-94"
+          data-testid="embedded-chips-card"
+          style="border-radius: 10px; background-color: rgb(254, 217, 215);"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-95"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2"
+              style="font-weight: bold; color: rgb(185, 37, 0);"
+            >
+              Needs improvement In
+            </h6>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-96"
+              >
+                <div
+                  class="MuiButtonBase-root MuiChip-root makeStyles-chip-40 makeStyles-variantBadChip-42 MuiChip-clickable"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiChip-label"
+                  >
+                    <h6
+                      class="MuiTypography-root MuiTypography-subtitle2"
+                      style="color: rgb(244, 125, 147); font-weight: bold;"
+                    >
+                      English
+                    </h6>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+                <div
+                  class="MuiButtonBase-root MuiChip-root makeStyles-chip-40 makeStyles-variantBadChip-42 MuiChip-clickable"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiChip-label"
+                  >
+                    <h6
+                      class="MuiTypography-root MuiTypography-subtitle2"
+                      style="color: rgb(244, 125, 147); font-weight: bold;"
+                    >
+                      Mathematics
+                    </h6>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+                <div
+                  class="MuiButtonBase-root MuiChip-root makeStyles-chip-40 makeStyles-variantBadChip-42 MuiChip-clickable"
+                  role="button"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiChip-label"
+                  >
+                    <h6
+                      class="MuiTypography-root MuiTypography-subtitle2"
+                      style="color: rgb(244, 125, 147); font-weight: bold;"
+                    >
+                      History
+                    </h6>
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-97 makeStyles-box-7"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-98"
+          data-testid="ratings-status-card"
+          style="border-radius: 10px; background-color: rgb(199, 233, 250);"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-99 makeStyles-cardContainer-51"
+              >
+                <h6
+                  class="MuiTypography-root makeStyles-cardTitle-52 MuiTypography-subtitle2"
+                  style="color: rgb(90, 158, 191);"
+                >
+                  Performance
+                </h6>
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-cardAction-53 MuiSvgIcon-fontSizeSmall"
+                  focusable="false"
+                  style="color: rgb(90, 158, 191);"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-100 makeStyles-cardContent-54"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+                  >
+                    <span
+                      class="MuiTypography-root makeStyles-percentage-55 MuiTypography-h4"
+                      style="color: rgb(90, 158, 191);"
+                    >
+                      82.0
+                    </span>
+                    <span
+                      class="MuiTypography-root makeStyles-percentageSymbol-56 MuiTypography-h6"
+                      style="color: rgb(90, 158, 191);"
+                    >
+                      %
+                    </span>
+                  </div>
+                  <div
+                    class="MuiGrid-root makeStyles-ratingsContainer-57 MuiGrid-item MuiGrid-grid-xs-6"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root makeStyles-upArrow-58 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"
+                      />
+                    </svg>
+                    <h6
+                      class="MuiTypography-root makeStyles-ratings-62 MuiTypography-subtitle2"
+                      style="color: rgb(0, 102, 68);"
+                    >
+                      Last year :
+                       
+                      73.2
+                      labels:Rating_Symbol_Default
+                    </h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-101 makeStyles-box-7"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-102"
+          data-testid="ratings-status-card"
+          style="border-radius: 10px; background-color: rgb(245, 232, 204);"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+            >
+              <div
+                class="MuiBox-root MuiBox-root-103 makeStyles-cardContainer-51"
+              >
+                <h6
+                  class="MuiTypography-root makeStyles-cardTitle-52 MuiTypography-subtitle2"
+                  style="color: rgb(181, 147, 83);"
+                >
+                  Attendance
+                </h6>
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-cardAction-53 MuiSvgIcon-fontSizeSmall"
+                  focusable="false"
+                  style="color: rgb(181, 147, 83);"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+                  />
+                </svg>
+              </div>
+              <div
+                class="MuiBox-root MuiBox-root-104 makeStyles-cardContent-54"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+                  >
+                    <span
+                      class="MuiTypography-root makeStyles-percentage-55 MuiTypography-h4"
+                      style="color: rgb(181, 147, 83);"
+                    >
+                      79.6
+                    </span>
+                    <span
+                      class="MuiTypography-root makeStyles-percentageSymbol-56 MuiTypography-h6"
+                      style="color: rgb(181, 147, 83);"
+                    >
+                      %
+                    </span>
+                  </div>
+                  <div
+                    class="MuiGrid-root makeStyles-ratingsContainer-57 MuiGrid-item MuiGrid-grid-xs-6"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root makeStyles-downArrow-59 MuiSvgIcon-fontSizeSmall"
+                      focusable="false"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+                      />
+                    </svg>
+                    <h6
+                      class="MuiTypography-root makeStyles-ratings-62 MuiTypography-subtitle2"
+                      style="color: rgb(185, 37, 0);"
+                    >
+                      labels:Rating_Down
+                       
+                      3
+                      %
+                    </h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-9"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-105 makeStyles-items-1"
+      />
+    </div>
+  </div>
+</div>
+`;

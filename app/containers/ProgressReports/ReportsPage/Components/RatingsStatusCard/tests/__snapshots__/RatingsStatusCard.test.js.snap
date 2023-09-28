@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ratings-Status-Card Ratings Status Card renders correctly 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-16"
+  data-testid="ratings-status-card"
+  style="border-radius: 10px; background-color: rgb(230, 252, 255);"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-17 makeStyles-cardContainer-1"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-cardTitle-2 MuiTypography-subtitle2"
+          style="color: rgb(0, 33, 141);"
+        />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-cardAction-3 MuiSvgIcon-fontSizeSmall"
+          focusable="false"
+          style="color: rgb(0, 33, 141);"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-18 makeStyles-cardContent-4"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <span
+              class="MuiTypography-root makeStyles-percentage-5 MuiTypography-h4"
+              style="color: rgb(0, 33, 141);"
+            />
+            <span
+              class="MuiTypography-root makeStyles-percentageSymbol-6 MuiTypography-h6"
+              style="color: rgb(0, 33, 141);"
+            />
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-ratingsContainer-7 MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-forwardArrow-11 MuiSvgIcon-fontSizeSmall"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+              />
+            </svg>
+            <h6
+              class="MuiTypography-root makeStyles-ratings-12 MuiTypography-subtitle2"
+              style="color: rgb(0, 33, 141);"
+            >
+               
+              labels:Rating_Symbol_Default
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Ratings-Status-Card Ratings Status Card renders correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-16"
+  data-testid="ratings-status-card"
+  style="border-radius: 10px; background-color: rgb(230, 252, 255);"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-17 makeStyles-cardContainer-1"
+      >
+        <h6
+          class="MuiTypography-root makeStyles-cardTitle-2 MuiTypography-subtitle2"
+          data-testid="card-title"
+          style="color: rgb(0, 33, 141);"
+        />
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-cardAction-3 MuiSvgIcon-fontSizeSmall"
+          focusable="false"
+          style="color: rgb(0, 33, 141);"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+          />
+        </svg>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-18 makeStyles-cardContent-4"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <span
+              class="MuiTypography-root makeStyles-percentage-5 MuiTypography-h4"
+              data-testid="card-boldText"
+              style="color: rgb(0, 33, 141);"
+            />
+            <span
+              class="MuiTypography-root makeStyles-percentageSymbol-6 MuiTypography-h6"
+              data-testid="card-boldSubtext"
+              style="color: rgb(0, 33, 141);"
+            />
+          </div>
+          <div
+            class="MuiGrid-root makeStyles-ratingsContainer-7 MuiGrid-item MuiGrid-grid-xs-6"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root makeStyles-forwardArrow-11 MuiSvgIcon-fontSizeSmall"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+              />
+            </svg>
+            <h6
+              class="MuiTypography-root makeStyles-ratings-12 MuiTypography-subtitle2"
+              style="color: rgb(0, 33, 141);"
+            >
+               
+              labels:Rating_Symbol_Default
+            </h6>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

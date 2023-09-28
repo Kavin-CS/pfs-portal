@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Student-Details-Card-Header-Page Student Details Card Header renders correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-8"
+  data-testid="student-profile-card-header"
+>
+  <div
+    class="MuiBox-root MuiBox-root-9"
+    style="justify-content: center;"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-10"
+      data-testid="student-profile-avatar"
+    >
+      <div
+        class="MuiAvatar-root MuiAvatar-circle makeStyles-avatar-2 MuiAvatar-colorDefault"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiAvatar-fallback"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root MuiBox-root-11 makeStyles-text-3"
+      data-testid="student-profile-name"
+    >
+      <div
+        class="MuiListItemText-root"
+      />
+    </div>
+  </div>
+</div>
+`;

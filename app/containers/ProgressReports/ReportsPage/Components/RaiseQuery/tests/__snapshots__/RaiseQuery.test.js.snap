@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Query-Popup-Content Query Popup Content renders correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-33"
+  data-testid="query-popup-content"
+>
+  <div
+    class="MuiBox-root MuiBox-root-34"
+  >
+    <div
+      class="MuiGrid-root makeStyles-container-1 MuiGrid-container MuiGrid-spacing-xs-2"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-6"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-35 makeStyles-rank-5"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container"
+          >
+            <div
+              class="MuiGrid-root makeStyles-firstItem-13 MuiGrid-item"
+            >
+              <p
+                class="MuiTypography-root makeStyles-rankText-8 MuiTypography-body1"
+              >
+                headings:Rank
+              </p>
+              <span
+                class="MuiTypography-root makeStyles-rankSubtext-9 MuiTypography-body1"
+                data-testid="rank"
+              />
+              <span
+                class="MuiTypography-root makeStyles-rankSubtext-9 makeStyles-rankSubSubtext-10 MuiTypography-body1"
+              >
+                headings:Rank_Suffix
+              </span>
+            </div>
+            <div
+              class="MuiGrid-root makeStyles-divider-20 MuiGrid-item"
+            />
+            <div
+              class="MuiGrid-root makeStyles-item-14 MuiGrid-item"
+            >
+              <p
+                class="MuiTypography-root makeStyles-rankText-8 MuiTypography-body1"
+              >
+                headings:Total_Marks
+              </p>
+              <span
+                class="MuiTypography-root makeStyles-rankSubtext-9 MuiTypography-body1"
+                data-testid="obtained-marks"
+              >
+                <span
+                  class="MuiTypography-root makeStyles-rankSubtext-9 makeStyles-rankSubSubtext-10 makeStyles-markSubSubtext-11 MuiTypography-body1"
+                  data-testid="total-marks"
+                >
+                   
+                  headings:Division_Symbol
+                  
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-md-6"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-36 makeStyles-rank-5 makeStyles-promoted-6"
+        >
+          <p
+            class="MuiTypography-root makeStyles-promotedText-12 MuiTypography-body1"
+          >
+            headings:Promoted_To_Text 
+             
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiBox-root MuiBox-root-44"
+  >
+    <p
+      class="MuiTypography-root makeStyles-textAreaLabel-16 makeStyles-sectionLabels-18 MuiTypography-body1"
+    >
+      headings:General_Remarks
+    </p>
+    <textarea
+      aria-label="text-area"
+      class="makeStyles-textArea-15"
+      placeholder="labels:Query_Text_Area_Placeholder"
+      rows="10"
+      style="height: -4px; overflow: hidden;"
+    />
+    <textarea
+      aria-hidden="true"
+      class="makeStyles-textArea-15"
+      readonly=""
+      style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0);"
+      tabindex="-1"
+    />
+  </div>
+</div>
+`;

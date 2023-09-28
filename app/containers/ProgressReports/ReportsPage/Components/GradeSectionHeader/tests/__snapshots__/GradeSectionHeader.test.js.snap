@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grade-Section-Header Grade Section Header renders correctly without props 1`] = `
+<div
+  class="MuiGrid-root makeStyles-root-1 MuiGrid-container"
+  data-testid="grade-section-header"
+>
+  <p
+    class="MuiTypography-root makeStyles-primaryLabelColor-2 MuiTypography-body1"
+    data-testid="grade-section-title"
+  />
+  <p
+    class="MuiTypography-root makeStyles-secondaryLabelColor-3 MuiTypography-body1"
+    data-testid="grade-section-label"
+  />
+</div>
+`;

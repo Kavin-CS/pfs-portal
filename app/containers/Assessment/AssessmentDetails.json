@@ -1,0 +1,35 @@
+{
+  "OnTimeExpirations": [
+    "Open attempts are submitted automatically",
+    "There is a grace period when open attempts can be submitted, but no more questions answered",
+    "Attempts must be submitted before time expires, or they are not counted"
+  ],
+  "SubmissionGracePeriods": ["Days", "Hours", "Minutes", "Seconds"],
+  "TotalMarks": ["30", "60", "80", "100"],
+  "AttemptsAllowed": ["Unlimited", 1, 2, 3, 4, 5, 6, 7, 8],
+  "GradeMethods": ["highest", "lowest"],
+  "QuestionPerPage": [
+    "2 questions each page",
+    "4 questions each page",
+    "6 questions each page"
+  ],
+  "QuestionBehaviours": [
+    "Deferred feedback",
+    "Deferred feedback with CBM",
+    "Adaptive mode",
+    "Adaptive mode (No penalities)",
+    "Immediate feedback",
+    "Immediate feedback with CBM",
+    "Interactive with multiple tries"
+  ],
+  "exam": [
+    {
+      "name": "Half - Yearly",
+      "value": ["P&P", "MA", "Sub En", "Portfolio", "Half - Yearly"]
+    },
+    {
+      "name": "Annual",
+      "value": ["P&P", "MA", "Sub En", "Portfolio", "Annual"]
+    }
+  ]
+}

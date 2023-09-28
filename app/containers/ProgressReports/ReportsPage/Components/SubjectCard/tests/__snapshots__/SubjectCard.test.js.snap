@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Subject Card Subject card renders correctly without props 1`] = `
+<div
+  class="MuiGrid-root makeStyles-root-1 MuiGrid-grid-xs-12 MuiGrid-grid-sm-4 MuiGrid-grid-md-4"
+  data-testid="subject-card"
+>
+  <div
+    class="MuiGrid-root makeStyles-subWrap-2 MuiGrid-container"
+  >
+    <p
+      class="MuiTypography-root makeStyles-subLabel-5 MuiTypography-body1"
+    />
+    <p
+      class="MuiTypography-root MuiTypography-body1"
+    >
+      <img
+        alt="infoIcon"
+        class="makeStyles-NoteIcon-7"
+        src="IMAGE_MOCK"
+      />
+    </p>
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-subValue-3 MuiGrid-container"
+  >
+    <p
+      class="MuiTypography-root makeStyles-gradeValue-8 MuiTypography-body1"
+    >
+      <p
+        class="MuiTypography-root makeStyles-gradeValueLabel-9 MuiTypography-body1"
+        style="color: rgb(255, 255, 255); background-color: rgb(255, 255, 255);"
+      />
+    </p>
+    <p
+      class="MuiTypography-root makeStyles-subjectMark-10 MuiTypography-body1"
+    />
+  </div>
+  <div
+    class="MuiGrid-root makeStyles-subRemarks-4 MuiGrid-container"
+  >
+    <p
+      class="MuiTypography-root makeStyles-infoIcon-15 MuiTypography-body1"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root makeStyles-forwardArrow-14 MuiSvgIcon-fontSizeSmall"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+        />
+      </svg>
+    </p>
+    <p
+      class="MuiTypography-root makeStyles-subRemarkLabel-6 MuiTypography-body1"
+    >
+       
+      <span
+        class="makeStyles-ratingsText-16"
+        style="color: rgb(134, 147, 176);"
+      />
+       
+    </p>
+  </div>
+</div>
+`;
