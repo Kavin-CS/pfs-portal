@@ -1,0 +1,32 @@
+
+.tui-full-calendar-month{
+    min-height: 400px !important;
+}
+.calender_icon{
+    display: flex;
+}
+/* .tui-full-calendar-popup tui-full-calendar-popup-detail{
+    display: none;
+} */
+
+#profileImage {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #efa548;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+    line-height: 32px;
+    margin: 10px 0;
+    text-transform: uppercase;
+  }
+.profile{
+    display: flex;
+}
+.profileText{
+    margin-top: 1rem;
+    text-transform: capitalize;
+    margin-left: 0.5rem;
+}

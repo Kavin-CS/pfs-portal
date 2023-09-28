@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Remarks Content component Remarks Content component renders correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-7 makeStyles-box-4"
+  data-testid="remarks-content"
+>
+  <p
+    class="MuiTypography-root makeStyles-headings-5 MuiTypography-body1"
+    data-testid="remarks-content-title"
+  />
+</div>
+`;

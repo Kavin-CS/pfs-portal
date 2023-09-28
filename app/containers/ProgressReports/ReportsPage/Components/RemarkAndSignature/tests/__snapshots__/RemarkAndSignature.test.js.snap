@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Remark and Signature component Remark and Signature component renders correctly 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-14"
+  data-testid="remark-and-signature-component"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-5"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-15 makeStyles-container-5"
+          data-testid="remark-content"
+        >
+          <p
+            class="MuiTypography-root makeStyles-headings-3 MuiTypography-body1"
+            data-testid="remark-content-title"
+          >
+            headings:Remark_And_Signature_Details
+          </p>
+          <div
+            class="MuiBox-root MuiBox-root-16 makeStyles-box-10"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-direction-xs-column"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-7"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-17 makeStyles-container-5"
+          data-testid="remark-content"
+        >
+          <p
+            class="MuiTypography-root makeStyles-headings-3 MuiTypography-body1"
+            data-testid="remark-content-title"
+          >
+            headings:Remark_And_Signature_Remarks
+          </p>
+          <div
+            class="MuiBox-root MuiBox-root-18 makeStyles-box-10"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-direction-xs-column"
+            >
+               
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiGrid-root makeStyles-signContainer-1 MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-direction-xs-column MuiGrid-align-items-xs-center MuiGrid-grid-xs-12 MuiGrid-grid-md-4"
+    />
+  </div>
+</div>
+`;

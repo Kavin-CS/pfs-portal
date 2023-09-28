@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Student-Details-Card-Page Student Details Card renders correctly with data 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation0 MuiPaper-rounded"
+  data-testid="student-details-card"
+>
+  <div
+    class="MuiBox-root MuiBox-root-19"
+    data-testid="student-profile-card-header"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-20"
+      style="justify-content: center;"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-21"
+        data-testid="student-profile-avatar"
+      >
+        <div
+          class="MuiAvatar-root MuiAvatar-circle makeStyles-avatar-5 MuiAvatar-colorDefault"
+          style="color: rgb(0, 33, 141); background-color: rgb(223, 225, 230);"
+        >
+          F
+        </div>
+      </div>
+      <div
+        class="MuiBox-root MuiBox-root-22 makeStyles-text-6"
+        data-testid="student-profile-name"
+      >
+        <div
+          class="MuiListItemText-root"
+        >
+          <span
+            class="MuiTypography-root MuiListItemText-primary MuiTypography-subtitle1 MuiTypography-displayBlock"
+            style="font-weight: 1000; color: rgb(0, 33, 141);"
+          >
+            Fake Name
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiCardContent-root makeStyles-cardContent-2"
+    data-testid="student-details-card-content"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-23 makeStyles-box-14"
+      data-testid="student-profile-card-content"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+        >
+          <div
+            class="MuiBox-root MuiBox-root-24 makeStyles-innerBox-15"
+          >
+            <div
+              data-testid="student-profile-card-content-label"
+            >
+              <p
+                class="MuiTypography-root makeStyles-headings-13 MuiTypography-body2"
+              >
+                Class
+              </p>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-25"
+            >
+              <div
+                data-testid="student-profile-card-content-value"
+              >
+                <p
+                  class="MuiTypography-root makeStyles-text-12 MuiTypography-body2 MuiTypography-colorPrimary"
+                >
+                  Montessori
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

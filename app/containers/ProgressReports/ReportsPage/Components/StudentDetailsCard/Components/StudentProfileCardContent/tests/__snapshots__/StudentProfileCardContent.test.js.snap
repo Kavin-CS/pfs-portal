@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Student-Details-Card-Content-Page Student Details Card Content renders correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-7 makeStyles-box-4"
+  data-testid="student-profile-card-content"
+>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  />
+</div>
+`;

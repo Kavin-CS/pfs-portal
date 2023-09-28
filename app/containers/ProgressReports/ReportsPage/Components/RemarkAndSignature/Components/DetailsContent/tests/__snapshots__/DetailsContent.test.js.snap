@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Content component Details Content component renders correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-9 makeStyles-container-1"
+  data-testid="details-content"
+>
+  <div
+    class="MuiBox-root MuiBox-root-10 makeStyles-box-5"
+  >
+    <p
+      class="MuiTypography-root makeStyles-headings-6 MuiTypography-body1"
+      data-testid="details-content-title"
+    />
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-direction-xs-column"
+    />
+  </div>
+</div>
+`;

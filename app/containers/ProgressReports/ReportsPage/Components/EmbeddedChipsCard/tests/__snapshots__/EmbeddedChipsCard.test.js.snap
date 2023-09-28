@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Embedded-Chips-Card Embedded Chips Card renders correctly 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-7"
+  data-testid="embedded-chips-card"
+  style="border-radius: 10px; background-color: rgb(255, 255, 255);"
+>
+  <div
+    class="MuiBox-root MuiBox-root-8"
+  >
+    <h6
+      class="MuiTypography-root MuiTypography-subtitle2"
+      style="font-weight: bold; color: rgb(0, 33, 141);"
+    />
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-9"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Embedded-Chips-Card Embedded Chips Card renders correctly without props 1`] = `
+<div
+  class="MuiBox-root MuiBox-root-7"
+  data-testid="embedded-chips-card"
+  style="border-radius: 10px; background-color: rgb(255, 255, 255);"
+>
+  <div
+    class="MuiBox-root MuiBox-root-8"
+  >
+    <h6
+      class="MuiTypography-root MuiTypography-subtitle2"
+      data-testid="chips-card-title"
+      style="font-weight: bold; color: rgb(0, 33, 141);"
+    />
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiBox-root MuiBox-root-9"
+      />
+    </div>
+  </div>
+</div>
+`;
